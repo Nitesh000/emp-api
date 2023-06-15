@@ -2,7 +2,9 @@
   "name": "domoapi",
   "version": "1.0.0",
   "description": "rest api for employee",
-  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon"
+  },
   "author": "Nitesh",
   "license": "MIT",
   "devDependencies": {

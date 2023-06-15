@@ -4,8 +4,8 @@
     "moduleResolution": "node",
     "baseUrl": "src",
     "outDir": "dist",
-    "onImplicitAny": true,
+    "noImplicitAny": true,
     "sourceMap": true
   },
-  "include": ["./src/**/*"]
+  "include": ["src/**/*"]
 }
